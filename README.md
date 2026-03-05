@@ -1,3 +1,4 @@
+# 534528-Assignment03
 # Assignment 03 - Data Structures and Algorithms
 
 ## Student Information
@@ -14,11 +15,10 @@
 ```bash
 g++ -std=c++17 -Wall -Wextra -o problem2 problem2.cpp
 g++ -std=c++17 -Wall -Wextra -o problem3 problem3.cpp
-```
 
 ## Memory Management
-- Tested with `g++ -g -fsanitize=address` to ensure no memory leaks.
-- All `new[]` are paired with `delete[]`.
+- Tested with g++ -g -fsanitize=address to ensure no memory leaks.
+- All new[] are paired with delete[].
 
 ## Time Spent
-- Approximately [X] hours.
+- Approximately [7] hours.
